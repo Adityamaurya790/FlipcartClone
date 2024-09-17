@@ -6,11 +6,11 @@
   - Knowledge of Express js & MVC architecture
   - Basic knowledge in MongoDB & Mongoose
 
-(![home page](image.png))
-(![main page](image-1.png))
-(![login page](image-2.png))
-(![cart page](image-3.png))
-(![cart page](image-4.png))
+![home page](image.png)
+![main page](image-1.png)
+![login page](image-2.png)
+![cart page](image-3.png)
+![cart page](image-4.png)
 
 Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.
 
